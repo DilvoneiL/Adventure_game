@@ -1,2 +1,1 @@
-# Adventure_game
-Jogo simples de labirinto feito em java.
+Jogo simples de labirinto feito usando Java.
